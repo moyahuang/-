@@ -9,6 +9,13 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.button {
+}
+.link_button {
+  color:#169BD5;
+}
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -52,4 +59,18 @@
 }
 .paragraph {
   text-align:left;
+}
+.line {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+.flow_shape {
 }
